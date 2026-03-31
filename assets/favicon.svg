@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Elektroasas</title>
+  <rect width="64" height="64" rx="18" fill="#212121"/>
+  <path d="M17 17h30l-10 13h10L22 47l9-14H17z" fill="#0b7b9e"/>
+  <path d="M18 50h28" stroke="#dddace" stroke-width="3" stroke-linecap="round"/>
+</svg>
