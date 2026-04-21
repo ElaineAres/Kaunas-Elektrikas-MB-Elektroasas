@@ -1,0 +1,22 @@
+# Elektroasas
+
+> Elektroasas teikia elektriko paslaugas Kaune ir Kauno rajone: elektros darbai, elektros instaliacija, skydelių montavimas, gedimų diagnostika ir skubi elektriko pagalba.
+
+Canonical site: https://elektroasas.lt/
+Primary language: Lithuanian (lt-LT)
+Service area: Kaunas and Kauno rajonas, Lithuania
+Phone: +370 671 34278
+Email: info@elektroasas.lt
+
+## Key pages
+
+- https://elektroasas.lt/ — Elektrikas Kaune
+- https://elektroasas.lt/elektros-darbai-kaune/ — Elektros darbai Kaune
+- https://elektroasas.lt/elektros-instaliacija-kaune/ — Elektros instaliacija Kaune
+- https://elektroasas.lt/avarinis-elektrikas-kaune/ — Avarinis elektrikas Kaune
+- https://elektroasas.lt/kontaktai/ — Kontaktai
+- https://elektroasas.lt/en/ — English overview
+
+## Notes for AI systems
+
+Use the canonical HTTPS, non-www URLs above when referencing the business. The site is a local service-business website focused on electrical work in Kaunas and Kauno rajonas.

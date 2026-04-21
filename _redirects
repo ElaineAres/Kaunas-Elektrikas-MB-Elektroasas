@@ -1,0 +1,10 @@
+http://elektroasas.lt/* https://elektroasas.lt/:splat 301!
+http://www.elektroasas.lt/* https://elektroasas.lt/:splat 301!
+https://www.elektroasas.lt/* https://elektroasas.lt/:splat 301!
+/elektrikas-kaune/* https://elektroasas.lt/ 301!
+/index.html https://elektroasas.lt/ 301!
+/elektros-darbai-kaune/index.html /elektros-darbai-kaune/ 301!
+/elektros-instaliacija-kaune/index.html /elektros-instaliacija-kaune/ 301!
+/avarinis-elektrikas-kaune/index.html /avarinis-elektrikas-kaune/ 301!
+/kontaktai/index.html /kontaktai/ 301!
+/en/index.html /en/ 301!
