@@ -1,0 +1,16 @@
+Options -MultiViews
+RewriteEngine On
+
+# Force the canonical host and HTTPS.
+RewriteCond %{HTTP_HOST} ^www\.elektroasas\.lt$ [NC,OR]
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://elektroasas.lt%{REQUEST_URI} [R=301,L,NE]
+
+# Hide index.html from public URLs.
+RewriteCond %{THE_REQUEST} \s/+(.*/)?index\.html[\s?] [NC]
+RewriteRule ^(.*/)?index\.html$ https://elektroasas.lt/$1 [R=301,L,NE]
+
+# Keep directory URLs on a trailing slash.
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteCond %{REQUEST_URI} !/$
+RewriteRule ^(.+)$ https://elektroasas.lt/$1/ [R=301,L,NE]
